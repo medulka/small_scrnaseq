@@ -11,10 +11,10 @@ The docker image can be run by:
 docker run -it -d [data] -o [output directory] scrnaseq
 ```
 Please specify 
-* your data directory
-* and the output file where the result will be stored.
+* your input data directory
+* and the desirable output file.
 
 
-**NOTE:** The docker image is stored on [Docker Hub](https://hub.docker.com/repository/docker/medulka/scrnaseq).
+**NOTE:** The docker image can be downloaded from [Docker Hub](https://hub.docker.com/repository/docker/medulka/scrnaseq).
 
 
